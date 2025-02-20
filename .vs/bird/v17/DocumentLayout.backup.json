@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\plazm\\bird\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B2B5709-9787-2E55-3F0A-10EDB01A6FC6}|Assembly-CSharp.csproj|c:\\users\\plazm\\bird\\assets\\themenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B2B5709-9787-2E55-3F0A-10EDB01A6FC6}|Assembly-CSharp.csproj|solutionrelative:assets\\themenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B2B5709-9787-2E55-3F0A-10EDB01A6FC6}|Assembly-CSharp.csproj|c:\\users\\plazm\\bird\\assets\\thelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B2B5709-9787-2E55-3F0A-10EDB01A6FC6}|Assembly-CSharp.csproj|solutionrelative:assets\\thelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B2B5709-9787-2E55-3F0A-10EDB01A6FC6}|Assembly-CSharp.csproj|c:\\users\\plazm\\bird\\assets\\birdscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B2B5709-9787-2E55-3F0A-10EDB01A6FC6}|Assembly-CSharp.csproj|solutionrelative:assets\\birdscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "theMenu.cs",
+              "DocumentMoniker": "C:\\Users\\plazm\\bird\\Assets\\theMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\theMenu.cs",
+              "ToolTip": "C:\\Users\\plazm\\bird\\Assets\\theMenu.cs",
+              "RelativeToolTip": "Assets\\theMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T02:06:35.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "theLogic.cs",
+              "DocumentMoniker": "C:\\Users\\plazm\\bird\\Assets\\theLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\theLogic.cs",
+              "ToolTip": "C:\\Users\\plazm\\bird\\Assets\\theLogic.cs",
+              "RelativeToolTip": "Assets\\theLogic.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwDkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T01:23:51.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BirdScript.cs",
+              "DocumentMoniker": "C:\\Users\\plazm\\bird\\Assets\\BirdScript.cs",
+              "RelativeDocumentMoniker": "Assets\\BirdScript.cs",
+              "ToolTip": "C:\\Users\\plazm\\bird\\Assets\\BirdScript.cs",
+              "RelativeToolTip": "Assets\\BirdScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T01:23:11.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
