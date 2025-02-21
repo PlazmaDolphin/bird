@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: de41f65eb9c276348b9271af6f2591e7
+guid: 25ed873e5d99b6f4aa5c895a5bd1a68c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8634368658134348540
-    second: unitytut-pipe_0
+      213: 5911495567690175071
+    second: tm_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,30 +96,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: unitytut-pipe_0
+      name: tm_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 533
-        height: 2186
+        width: 5000
+        height: 5000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 40dc228c37f8c2880800000000000000
-      internalID: -8634368658134348540
+      spriteID: f52187bf5e9d90250800000000000000
+      internalID: 5911495567690175071
       vertices: []
       indices: 
       edges: []
@@ -147,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      unitytut-pipe_0: -8634368658134348540
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
