@@ -19,4 +19,4 @@ UserSettings/
 .vscode/
 
 # Ignore PlayMode and Editor-Only Player logs
-[Pp]layer[Ss]ettings.asset
+PlayerSettings.asset
