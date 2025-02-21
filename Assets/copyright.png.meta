@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: de41f65eb9c276348b9271af6f2591e7
+guid: cfff1b85b977ae44d9c047978fa99143
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8634368658134348540
-    second: unitytut-pipe_0
+      213: -4303450828912995460
+    second: copyright_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: unitytut-pipe_0
+      name: copyright_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 533
-        height: 2186
+        width: 300
+        height: 300
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 40dc228c37f8c2880800000000000000
-      internalID: -8634368658134348540
+      spriteID: c73d74295421744c0800000000000000
+      internalID: -4303450828912995460
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      unitytut-pipe_0: -8634368658134348540
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
